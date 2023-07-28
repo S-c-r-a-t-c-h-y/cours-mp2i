@@ -2,8 +2,8 @@
 
 ## Cours de maths
 
-[Cours](https://s-c-r-a-t-c-h-y.github.io/cours-mp2i/integrale_maths_2021_2022.pdf)
+<a href="integrale_maths_2021_2022.pdf" class="image fit">Cours</a>
 
 ## Cours d'info
 
-[Cours](https://s-c-r-a-t-c-h-y.github.io/cours-mp2i/integrale_info_2022_2023.pdf)
+<a href="integrale_info_2022_2023.pdf" class="image fit">Cours</a>
